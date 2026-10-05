@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Mahdi! 👋
 
-<!--
-**Mahdi00gholami/Mahdi00gholami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a beginner web developer.
 
-Here are some ideas to get you started:
+🌱 I'm learning HTML, CSS, JavaScript and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm building my first web projects.
+
+📚 I'm always learning new things.
+
+🎯 My goal is to become a professional developer.
+
+🤝 Welcome to my GitHub profile!
+
